@@ -3,3 +3,5 @@ Devops id easy
 deploy python files
 deploy in dev environment
 second deployment in dev environment
+today is sunday
+devops is good
